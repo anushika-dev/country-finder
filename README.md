@@ -3,20 +3,20 @@
 A simple JavaScript application that allows users to search for any country and view detailed information dynamically using the REST Countries API.
 
 ## Live Demo
-``
+[https://country-finder-ui.netlify.app/](https://country-finder-ui.netlify.app/)
 
-```
+
 ## Screenshot
 
-![Country Finder UI](screenshot.png)
-```
+<img width="855" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/2b809de7-d103-4efd-bff2-dc94b9726513" />
+
 
 
 ## Features
 
 - Search for any country
 - Fetches real-time country data from the REST Countries API
-- Displays detailed information including:
+- Displays detailed information, including:
   - Flag
   - Official and common names
   - Region and subregion
